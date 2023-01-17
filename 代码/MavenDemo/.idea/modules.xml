@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/有依赖路径不能删/repository_lucene/org/apache/lucene/lucene.iml" filepath="E:/有依赖路径不能删/repository_lucene/org/apache/lucene/lucene.iml" />
+      <module fileurl="file://E:/有依赖路径不能删/repository_lucene/repository_lucene.iml" filepath="E:/有依赖路径不能删/repository_lucene/repository_lucene.iml" />
+    </modules>
+  </component>
+</project>

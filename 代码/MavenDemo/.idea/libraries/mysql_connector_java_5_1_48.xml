@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.48">
+    <CLASSES>
+      <root url="jar://E:/有依赖路径不能删/repository_lucene/mysql/mysql-connector-java/5.1.48/mysql-connector-java-5.1.48.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
